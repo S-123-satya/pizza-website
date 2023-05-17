@@ -32,7 +32,7 @@ const pizzaMenu = [
     img1440: imgOne1440,
     name: 'Cheese Pizza',
     price: 5.0,
-    currency: '$',
+    currency: '₹',
     description:
       'It should be no shocker that a classic is the statistical favorite. Cheese pizza is one of the most popular choices. It will always be a simple, unadorned masterpiece on its own.',
   },
@@ -43,7 +43,7 @@ const pizzaMenu = [
     img1440: imgTwo1440,
     name: 'Veggie Pizza',
     price: 9.0,
-    currency: '$',
+    currency: '₹',
     description:
       'When you want to jazz up your cheese pizza with color and texture, veggies are the perfect topping. And you’re only limited by your imagination.',
   },
@@ -54,7 +54,7 @@ const pizzaMenu = [
     img1440: imgThree1440,
     name: 'Pepperoni Pizza',
     price: 5.0,
-    currency: '$',
+    currency: '₹',
     description:
       'There’s a reason this is one of the most popular types of pizza. Who doesn’t love biting into a crispy, salty round of pepperoni?',
   },
@@ -65,7 +65,7 @@ const pizzaMenu = [
     img1440: imgFour1440,
     name: 'Meat Pizza',
     price: 10.0,
-    currency: '$',
+    currency: '₹',
     description:
       'If pepperoni just isn’t enough, and you’re looking for a pie with a bit more heft, a meat pizza is a perfect and popular choice.',
   },
@@ -76,7 +76,7 @@ const pizzaMenu = [
     img1440: imgFive1440,
     name: 'Margherita Pizza',
     price: 8.0,
-    currency: '$',
+    currency: '₹',
     description:
       'Deceptively simple, the Margherita pizza is made with basil, fresh mozzarella, and tomatoes. There’s a reason it’s an Italian staple and one of the most popular types of pizza in the country.',
   },
@@ -87,7 +87,7 @@ const pizzaMenu = [
     img1440: imgSix1440,
     name: 'BBQ Chicken Pizza',
     price: 10.0,
-    currency: '$',
+    currency: '₹',
     description:
       'If you love BBQ chicken and you love pizza, why not put them together? This has long been a cult favorite of sports fans and college kids.',
   },

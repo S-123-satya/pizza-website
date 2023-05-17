@@ -15,7 +15,7 @@ let DefaultIcon = L.icon({
   shadowUrl: iconShadow,
 });
 L.Marker.prototype.options.icon = DefaultIcon;
-const position = [37.0902, -93.7129];
+const position = [28.976760,77.735423];
 
 
 const ContactForm = () => {

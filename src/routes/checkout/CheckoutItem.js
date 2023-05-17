@@ -42,7 +42,7 @@ export default class CheckoutItem extends React.Component {
           </section>
 
           <p className="checkout-price-num">
-            <span>$</span>
+            <span>₹</span>
             {cartItem.ItemPrice}
           </p>
         </section>

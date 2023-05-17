@@ -348,8 +348,8 @@ export default class App extends React.Component {
   handleSubmit = (e) => {
     e.preventDefault()
     if (
-      this.state.formValue.password === '12345678' &&
-      this.state.formValue.email === 'danielw@pizzatime.com'
+      this.state.formValue.password === 'Satya0*123' &&
+      this.state.formValue.email === 'satyaprakash5056742@gmail.com'
     ) {
       this.setState({ validLogin: true })
     }

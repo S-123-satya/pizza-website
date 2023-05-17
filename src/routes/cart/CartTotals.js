@@ -13,7 +13,7 @@ const CartTotals = ({ totalPayment, productsQuantity, taxes, className, validLog
           <section className="totals-content">
             <section>
               <h4 className="cart-totals-sum">Tax 10%:</h4>
-              <p>$ {taxes}</p>
+              <p>₹ {taxes}</p>
             </section>
             <section>
               <h4 className="cart-totals-sum">Quantity:</h4>
@@ -22,7 +22,7 @@ const CartTotals = ({ totalPayment, productsQuantity, taxes, className, validLog
             <section>
               <h4 className="cart-totals-sum">Total:</h4>
               {/* COUNTING TWICE DUE TO STRICT MODE */}
-              <p>$ {(totalPayment / 2).toFixed(2)}</p>
+              <p>₹ {(totalPayment / 2).toFixed(2)}</p>
             </section>
           </section>
           {className === "cart-carttotals" ? (
