@@ -19,7 +19,7 @@ export default class AddToCartButton extends React.Component {
           ? "active-add-to-cart"
           : "inactive-add-to-cart"
           }`}
-        disabled={!allAttributesAreSelected}
+       // disabled={!allAttributesAreSelected}
       >
         Add to cart
       </button>

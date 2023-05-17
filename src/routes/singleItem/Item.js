@@ -58,7 +58,7 @@ const Item = ({ successMsg, handleAddProduct, handleRemoveProduct }) => {
         <div className="price">
           <section>
             <p className="price-num">
-              <span>$</span>
+              <span>₹</span>
               {singleProduct.ItemPrice}
             </p>
           </section>
