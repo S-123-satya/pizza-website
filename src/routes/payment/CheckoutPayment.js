@@ -55,7 +55,7 @@ const CheckoutPayment = ({ totalPayment }) => {
           </section>
           <img src={Tick} alt="" aria-hidden="true"/>
           <section className="payment-details">
-            <p>Amount paid: <span>{totalPayment} $</span></p>
+            <p>Amount paid: <span>{totalPayment} ₹</span></p>
             <p>Transaction id: <span>{transactionId}</span></p>
             <h3>Est. delivery time: 24mins.</h3>
           </section>

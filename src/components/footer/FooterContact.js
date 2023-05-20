@@ -17,7 +17,7 @@ export default class FooterContact extends React.Component {
           <p>pizza@pizzatime.com</p>
         </div>
         <div>
-          <p>8:00am - 9:00pm</p>
+          <p>27*7</p>
         </div>
         <section className="accepted-payments">
           <img width="50" height="50" src={Visa} alt="Visa card" />

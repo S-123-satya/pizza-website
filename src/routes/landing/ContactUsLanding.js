@@ -35,12 +35,12 @@ const ContactUsLanding = () => {
           <p>Contact us if you have any questions</p>
         </div>
         <div>
-          <h2>506 Roy Alley 80202 </h2>
-          <p>Colorado, Denver</p>
+          <h2>A.P.J Hostel , SCRIET </h2>
+          <p>Meerut , Uttar Pradesh</p>
         </div>
         <div>
-          <h2>Open Monday-Friday</h2>
-          <p>8:00am - 9:00pm</p>
+          <h2>Open 24*7</h2>
+          {/* <p>8:00am - 9:00pm</p> */}
         </div>
       </section>
     </section>

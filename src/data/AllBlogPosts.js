@@ -15,8 +15,8 @@ export const AllBlogPosts = [
     BlogName: "Pizza Crust Types: Self-Rising And Par-Baked",
     BlogSnippet:
       "Maecenas interdum erat justo, eget posuere mi vehicula et. Fusce ut elit ex...",
-    BlogDate: "July 12, 2021",
-    BlogAuthor: "Daniel Wilson",
+    BlogDate: "April 12, 2023",
+    BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
 
@@ -26,8 +26,8 @@ export const AllBlogPosts = [
       "Thick Or Thin: Different Styles Of Pizza Crust For 8 Classic Pies",
     BlogSnippet:
       "Aenean convallis tempor vehicula. Nunc pellentesque porta libero...",
-    BlogDate: "July 1, 2021",
-    BlogAuthor: "Anna Anderson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -35,8 +35,8 @@ export const AllBlogPosts = [
     BlogName: "What To Do With Leftover Pizza Dough",
     BlogSnippet:
       "Nullam sit amet semper est. Proin laoreet diam quis tortor malesuada, eget mattis orci vulputate...",
-    BlogDate: "June 27, 2021",
-    BlogAuthor: "Catherine Wright",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -44,8 +44,8 @@ export const AllBlogPosts = [
     BlogName: "Dill Pickle Pizza Recipe",
     BlogSnippet:
       "In sed suscipit massa. Aenean ultricies massa eget ligula sollicitudin semper....",
-    BlogDate: "June 12, 2021",
-    BlogAuthor: "Nina Kowalski",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -53,8 +53,8 @@ export const AllBlogPosts = [
     BlogName: "5 Accessories To Take Your Pizza Party To The Next Level!",
     BlogSnippet:
       "Aenean maximus magna et nisl vehicula dapibus. Aenean eget mattis dui...",
-    BlogDate: "May 10, 2021",
-    BlogAuthor: "Cara Nelson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -62,8 +62,8 @@ export const AllBlogPosts = [
     BlogName: "The Best Vegan Cheese and Meat For Pizza",
     BlogSnippet:
       "Mauris quis est vel arcu malesuada malesuada a ac nisi. Quisque in fringilla diam. Proin a facilisis justo...",
-    BlogDate: "May 3, 2021",
-    BlogAuthor: "Tom Wilson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -71,8 +71,8 @@ export const AllBlogPosts = [
     BlogName: "National BBQ (Pizza) Month! Gear For Your Grill",
     BlogSnippet:
       "Donec efficitur tempor luctus. In sed suscipit massa. Aenean ultricies massa eget ligula sollicitudin semper...",
-    BlogDate: "April 11, 2021",
-    BlogAuthor: "Kerry Smith",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -80,8 +80,8 @@ export const AllBlogPosts = [
     BlogName: "The Biggest Mistakes When Making Pizza",
     BlogSnippet:
       "Proin pretium, tortor id laoreet ornare, orci sapien vulputate lorem, ac maximus sapien arcu nec metus...",
-    BlogDate: "April 2, 2021",
-    BlogAuthor: "Kira Wilson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -89,8 +89,8 @@ export const AllBlogPosts = [
     BlogName: "What is the perfect mozzarella for your cheese pizza?",
     BlogSnippet:
       "Mauris non luctus nibh, eget convallis quam. Etiam eleifend malesuada ipsum ut interdum...",
-    BlogDate: "March 18, 2021",
-    BlogAuthor: "George Denson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -98,8 +98,8 @@ export const AllBlogPosts = [
     BlogName: "Breakfast Pizza Recipe",
     BlogSnippet:
       "Quisque sit amet molestie erat. Quisque sed eros interdum, faucibus magna in, aliquet enim...",
-    BlogDate: "March 7, 2021",
-    BlogAuthor: "Alex Lee",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -107,8 +107,8 @@ export const AllBlogPosts = [
     BlogName: "Pizza Crust Types: Self-Rising And Par-Baked",
     BlogSnippet:
       "Maecenas interdum erat justo, eget posuere mi vehicula et. Fusce ut elit ex...",
-    BlogDate: "July 12, 2021",
-    BlogAuthor: "Daniel Wilson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
 
@@ -118,8 +118,8 @@ export const AllBlogPosts = [
       "Thick Or Thin: Different Styles Of Pizza Crust For 8 Classic Pies",
     BlogSnippet:
       "Aenean convallis tempor vehicula. Nunc pellentesque porta libero...",
-    BlogDate: "July 1, 2021",
-    BlogAuthor: "Anna Anderson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -127,8 +127,8 @@ export const AllBlogPosts = [
     BlogName: "What To Do With Leftover Pizza Dough",
     BlogSnippet:
       "Nullam sit amet semper est. Proin laoreet diam quis tortor malesuada, eget mattis orci vulputate...",
-    BlogDate: "June 27, 2021",
-    BlogAuthor: "Catherine Wright",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -136,8 +136,8 @@ export const AllBlogPosts = [
     BlogName: "Dill Pickle Pizza Recipe",
     BlogSnippet:
       "In sed suscipit massa. Aenean ultricies massa eget ligula sollicitudin semper....",
-    BlogDate: "June 12, 2021",
-    BlogAuthor: "Nina Kowalski",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -145,8 +145,8 @@ export const AllBlogPosts = [
     BlogName: "5 Accessories To Take Your Pizza Party To The Next Level!",
     BlogSnippet:
       "Aenean maximus magna et nisl vehicula dapibus. Aenean eget mattis dui...",
-    BlogDate: "May 10, 2021",
-    BlogAuthor: "Cara Nelson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -154,8 +154,8 @@ export const AllBlogPosts = [
     BlogName: "The Best Vegan Cheese and Meat For Pizza",
     BlogSnippet:
       "Mauris quis est vel arcu malesuada malesuada a ac nisi. Quisque in fringilla diam. Proin a facilisis justo...",
-    BlogDate: "May 3, 2021",
-    BlogAuthor: "Tom Wilson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -163,8 +163,8 @@ export const AllBlogPosts = [
     BlogName: "National BBQ (Pizza) Month! Gear For Your Grill",
     BlogSnippet:
       "Donec efficitur tempor luctus. In sed suscipit massa. Aenean ultricies massa eget ligula sollicitudin semper...",
-    BlogDate: "April 11, 2021",
-    BlogAuthor: "Kerry Smith",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -172,8 +172,8 @@ export const AllBlogPosts = [
     BlogName: "The Biggest Mistakes When Making Pizza",
     BlogSnippet:
       "Proin pretium, tortor id laoreet ornare, orci sapien vulputate lorem, ac maximus sapien arcu nec metus...",
-    BlogDate: "April 2, 2021",
-    BlogAuthor: "Kira Wilson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -181,8 +181,8 @@ export const AllBlogPosts = [
     BlogName: "What is the perfect mozzarella for your cheese pizza?",
     BlogSnippet:
       "Mauris non luctus nibh, eget convallis quam. Etiam eleifend malesuada ipsum ut interdum...",
-    BlogDate: "March 18, 2021",
-    BlogAuthor: "George Denson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -190,8 +190,8 @@ export const AllBlogPosts = [
     BlogName: "Breakfast Pizza Recipe",
     BlogSnippet:
       "Quisque sit amet molestie erat. Quisque sed eros interdum, faucibus magna in, aliquet enim...",
-    BlogDate: "March 7, 2021",
-    BlogAuthor: "Alex Lee",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -199,8 +199,8 @@ export const AllBlogPosts = [
     BlogName: "Pizza Crust Types: Self-Rising And Par-Baked",
     BlogSnippet:
       "Maecenas interdum erat justo, eget posuere mi vehicula et. Fusce ut elit ex...",
-    BlogDate: "July 12, 2021",
-    BlogAuthor: "Daniel Wilson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
 
@@ -210,8 +210,8 @@ export const AllBlogPosts = [
       "Thick Or Thin: Different Styles Of Pizza Crust For 8 Classic Pies",
     BlogSnippet:
       "Aenean convallis tempor vehicula. Nunc pellentesque porta libero...",
-    BlogDate: "July 1, 2021",
-    BlogAuthor: "Anna Anderson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -219,8 +219,8 @@ export const AllBlogPosts = [
     BlogName: "What To Do With Leftover Pizza Dough",
     BlogSnippet:
       "Nullam sit amet semper est. Proin laoreet diam quis tortor malesuada, eget mattis orci vulputate...",
-    BlogDate: "June 27, 2021",
-    BlogAuthor: "Catherine Wright",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -228,8 +228,8 @@ export const AllBlogPosts = [
     BlogName: "Dill Pickle Pizza Recipe",
     BlogSnippet:
       "In sed suscipit massa. Aenean ultricies massa eget ligula sollicitudin semper....",
-    BlogDate: "June 12, 2021",
-    BlogAuthor: "Nina Kowalski",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -237,8 +237,8 @@ export const AllBlogPosts = [
     BlogName: "5 Accessories To Take Your Pizza Party To The Next Level!",
     BlogSnippet:
       "Aenean maximus magna et nisl vehicula dapibus. Aenean eget mattis dui...",
-    BlogDate: "May 10, 2021",
-    BlogAuthor: "Cara Nelson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -246,8 +246,8 @@ export const AllBlogPosts = [
     BlogName: "The Best Vegan Cheese and Meat For Pizza",
     BlogSnippet:
       "Mauris quis est vel arcu malesuada malesuada a ac nisi. Quisque in fringilla diam. Proin a facilisis justo...",
-    BlogDate: "May 3, 2021",
-    BlogAuthor: "Tom Wilson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -255,8 +255,8 @@ export const AllBlogPosts = [
     BlogName: "National BBQ (Pizza) Month! Gear For Your Grill",
     BlogSnippet:
       "Donec efficitur tempor luctus. In sed suscipit massa. Aenean ultricies massa eget ligula sollicitudin semper...",
-    BlogDate: "April 11, 2021",
-    BlogAuthor: "Kerry Smith",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -264,8 +264,8 @@ export const AllBlogPosts = [
     BlogName: "The Biggest Mistakes When Making Pizza",
     BlogSnippet:
       "Proin pretium, tortor id laoreet ornare, orci sapien vulputate lorem, ac maximus sapien arcu nec metus...",
-    BlogDate: "April 2, 2021",
-    BlogAuthor: "Kira Wilson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -273,8 +273,8 @@ export const AllBlogPosts = [
     BlogName: "What is the perfect mozzarella for your cheese pizza?",
     BlogSnippet:
       "Mauris non luctus nibh, eget convallis quam. Etiam eleifend malesuada ipsum ut interdum...",
-    BlogDate: "March 18, 2021",
-    BlogAuthor: "George Denson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -282,8 +282,8 @@ export const AllBlogPosts = [
     BlogName: "Breakfast Pizza Recipe",
     BlogSnippet:
       "Quisque sit amet molestie erat. Quisque sed eros interdum, faucibus magna in, aliquet enim...",
-    BlogDate: "March 7, 2021",
-    BlogAuthor: "Alex Lee",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -291,8 +291,8 @@ export const AllBlogPosts = [
     BlogName: "Pizza Crust Types: Self-Rising And Par-Baked",
     BlogSnippet:
       "Maecenas interdum erat justo, eget posuere mi vehicula et. Fusce ut elit ex...",
-    BlogDate: "July 12, 2021",
-    BlogAuthor: "Daniel Wilson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
 
@@ -302,8 +302,8 @@ export const AllBlogPosts = [
       "Thick Or Thin: Different Styles Of Pizza Crust For 8 Classic Pies",
     BlogSnippet:
       "Aenean convallis tempor vehicula. Nunc pellentesque porta libero...",
-    BlogDate: "July 1, 2021",
-    BlogAuthor: "Anna Anderson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -311,8 +311,8 @@ export const AllBlogPosts = [
     BlogName: "What To Do With Leftover Pizza Dough",
     BlogSnippet:
       "Nullam sit amet semper est. Proin laoreet diam quis tortor malesuada, eget mattis orci vulputate...",
-    BlogDate: "June 27, 2021",
-    BlogAuthor: "Catherine Wright",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -320,8 +320,8 @@ export const AllBlogPosts = [
     BlogName: "Dill Pickle Pizza Recipe",
     BlogSnippet:
       "In sed suscipit massa. Aenean ultricies massa eget ligula sollicitudin semper....",
-    BlogDate: "June 12, 2021",
-    BlogAuthor: "Nina Kowalski",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -329,8 +329,8 @@ export const AllBlogPosts = [
     BlogName: "5 Accessories To Take Your Pizza Party To The Next Level!",
     BlogSnippet:
       "Aenean maximus magna et nisl vehicula dapibus. Aenean eget mattis dui...",
-    BlogDate: "May 10, 2021",
-    BlogAuthor: "Cara Nelson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -338,8 +338,8 @@ export const AllBlogPosts = [
     BlogName: "The Best Vegan Cheese and Meat For Pizza",
     BlogSnippet:
       "Mauris quis est vel arcu malesuada malesuada a ac nisi. Quisque in fringilla diam. Proin a facilisis justo...",
-    BlogDate: "May 3, 2021",
-    BlogAuthor: "Tom Wilson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -347,8 +347,8 @@ export const AllBlogPosts = [
     BlogName: "National BBQ (Pizza) Month! Gear For Your Grill",
     BlogSnippet:
       "Donec efficitur tempor luctus. In sed suscipit massa. Aenean ultricies massa eget ligula sollicitudin semper...",
-    BlogDate: "April 11, 2021",
-    BlogAuthor: "Kerry Smith",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -356,8 +356,8 @@ export const AllBlogPosts = [
     BlogName: "The Biggest Mistakes When Making Pizza",
     BlogSnippet:
       "Proin pretium, tortor id laoreet ornare, orci sapien vulputate lorem, ac maximus sapien arcu nec metus...",
-    BlogDate: "April 2, 2021",
-    BlogAuthor: "Kira Wilson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -365,8 +365,8 @@ export const AllBlogPosts = [
     BlogName: "What is the perfect mozzarella for your cheese pizza?",
     BlogSnippet:
       "Mauris non luctus nibh, eget convallis quam. Etiam eleifend malesuada ipsum ut interdum...",
-    BlogDate: "March 18, 2021",
-    BlogAuthor: "George Denson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -374,8 +374,8 @@ export const AllBlogPosts = [
     BlogName: "Breakfast Pizza Recipe",
     BlogSnippet:
       "Quisque sit amet molestie erat. Quisque sed eros interdum, faucibus magna in, aliquet enim...",
-    BlogDate: "March 7, 2021",
-    BlogAuthor: "Alex Lee",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -383,8 +383,8 @@ export const AllBlogPosts = [
     BlogName: "Pizza Crust Types: Self-Rising And Par-Baked",
     BlogSnippet:
       "Maecenas interdum erat justo, eget posuere mi vehicula et. Fusce ut elit ex...",
-    BlogDate: "July 12, 2021",
-    BlogAuthor: "Daniel Wilson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
 
@@ -394,8 +394,8 @@ export const AllBlogPosts = [
       "Thick Or Thin: Different Styles Of Pizza Crust For 8 Classic Pies",
     BlogSnippet:
       "Aenean convallis tempor vehicula. Nunc pellentesque porta libero...",
-    BlogDate: "July 1, 2021",
-    BlogAuthor: "Anna Anderson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -403,8 +403,8 @@ export const AllBlogPosts = [
     BlogName: "What To Do With Leftover Pizza Dough",
     BlogSnippet:
       "Nullam sit amet semper est. Proin laoreet diam quis tortor malesuada, eget mattis orci vulputate...",
-    BlogDate: "June 27, 2021",
-    BlogAuthor: "Catherine Wright",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -412,8 +412,8 @@ export const AllBlogPosts = [
     BlogName: "Dill Pickle Pizza Recipe",
     BlogSnippet:
       "In sed suscipit massa. Aenean ultricies massa eget ligula sollicitudin semper....",
-    BlogDate: "June 12, 2021",
-    BlogAuthor: "Nina Kowalski",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -421,8 +421,8 @@ export const AllBlogPosts = [
     BlogName: "5 Accessories To Take Your Pizza Party To The Next Level!",
     BlogSnippet:
       "Aenean maximus magna et nisl vehicula dapibus. Aenean eget mattis dui...",
-    BlogDate: "May 10, 2021",
-    BlogAuthor: "Cara Nelson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -430,8 +430,8 @@ export const AllBlogPosts = [
     BlogName: "The Best Vegan Cheese and Meat For Pizza",
     BlogSnippet:
       "Mauris quis est vel arcu malesuada malesuada a ac nisi. Quisque in fringilla diam. Proin a facilisis justo...",
-    BlogDate: "May 3, 2021",
-    BlogAuthor: "Tom Wilson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -439,8 +439,8 @@ export const AllBlogPosts = [
     BlogName: "National BBQ (Pizza) Month! Gear For Your Grill",
     BlogSnippet:
       "Donec efficitur tempor luctus. In sed suscipit massa. Aenean ultricies massa eget ligula sollicitudin semper...",
-    BlogDate: "April 11, 2021",
-    BlogAuthor: "Kerry Smith",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -448,8 +448,8 @@ export const AllBlogPosts = [
     BlogName: "The Biggest Mistakes When Making Pizza",
     BlogSnippet:
       "Proin pretium, tortor id laoreet ornare, orci sapien vulputate lorem, ac maximus sapien arcu nec metus...",
-    BlogDate: "April 2, 2021",
-    BlogAuthor: "Kira Wilson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -457,8 +457,8 @@ export const AllBlogPosts = [
     BlogName: "What is the perfect mozzarella for your cheese pizza?",
     BlogSnippet:
       "Mauris non luctus nibh, eget convallis quam. Etiam eleifend malesuada ipsum ut interdum...",
-    BlogDate: "March 18, 2021",
-    BlogAuthor: "George Denson",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
   {
@@ -466,8 +466,8 @@ export const AllBlogPosts = [
     BlogName: "Breakfast Pizza Recipe",
     BlogSnippet:
       "Quisque sit amet molestie erat. Quisque sed eros interdum, faucibus magna in, aliquet enim...",
-    BlogDate: "March 7, 2021",
-    BlogAuthor: "Alex Lee",
+      BlogDate: "April 12, 2023",
+      BlogAuthor: "Vikas kumar && Manshi Saini",
     id: "",
   },
 ];
